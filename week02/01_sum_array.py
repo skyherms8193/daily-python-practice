@@ -18,6 +18,10 @@ Concepts practiced:
 Notes:
 Practicing how to process a list of values and maintain a running total.
 This is a common foundational pattern in many programming problems.
+
+Python includes a built-in function `sum()` that can compute this in one
+line, but this implementation intentionally uses a loop and accumulator
+to practice fundamental iteration patterns.
 """
 
 def sum_array(a):

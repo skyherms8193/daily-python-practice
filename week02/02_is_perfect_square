@@ -1,0 +1,36 @@
+"""
+Kata: Is This a Perfect Square?
+
+Description:
+Given a non-negative integer, determine whether it is a perfect square.
+
+A perfect square is an integer that is the square of another integer.
+For example:
+- 0, 1, 4, 9, 16 are perfect squares
+- 2, 3, 5, 10 are not
+
+If the number is negative, return False.
+
+Concepts practiced:
+- Square roots and exponents
+- Boolean return values
+- Edge case handling (negative numbers)
+- Using built-in float methods
+
+Notes:
+Practicing how to evaluate whether a computed value is a whole number.
+Also reinforces handling invalid input (negative numbers) early.
+"""
+
+def is_square(n):
+    if n < 0:
+        return False
+    return (n ** 0.5).is_integer()
+
+
+# Example usage
+if __name__ == "__main__":
+    print(is_square(16))  # True
+    print(is_square(15))  # False
+    print(is_square(0))   # True
+    print(is_square(-4))  # False

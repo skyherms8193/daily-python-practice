@@ -9,3 +9,17 @@ This repository documents my ongoing Python practice as I build technical depth 
 - Build consistency through daily work
 
 Problems are organized by week to track progression.
+
+## Weekly Progress
+
+### Week 1
+- Even or Odd
+- Are You Playing Banjo?
+- Disemvowel
+- Sum of an Array
+- Number of People in the Bus
+
+### Week 2
+- Math Operator Function
+- Perfect Square Checker
+- Word Count and Letter Count

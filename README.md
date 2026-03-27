@@ -20,6 +20,14 @@ Problems are organized by week to track progression.
 - Number of People in the Bus
 
 ### Week 2
-- Math Operator Function
-- Perfect Square Checker
-- Word Count and Letter Count
+- Sum of an Array
+- Basic Calculator  
+- Perfect Square Checker  
+- Word Lengths  
+- Convert String to Camel Case  
+- Break Camel Case 
+
+### Week 3
+- Get the Grade  
+- Build Movie Collection  
+- Remove the Smallest Value from a List  

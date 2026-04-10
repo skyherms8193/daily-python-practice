@@ -31,3 +31,10 @@ Problems are organized by week to track progression.
 - Get the Grade  
 - Build Movie Collection  
 - Remove the Smallest Value from a List  
+- Multiply and Square  
+- Remove the Smallest Value (Revisited)
+
+### Week 4
+- String to Array  
+- Reverse Words (Maintain Spaces)  
+- Highest and Lowest Number
